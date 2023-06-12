@@ -15,9 +15,9 @@
 #### I will be glad to work with you) Write me : ilrosch@yandex.ru
 
 ### My freelance profile:
-> [Kwork.ru (Russia)](https://kwork.ru/user/ilrosch) </br>
+> [Kwork.ru (Russia)](https://kwork.ru/user/_ilrosch_) </br>
 
-> [Kwork.com](https://kwork.com/user/ilrosch)
+> [Kwork.com](https://kwork.com/user/_ilrosch_)
 
 
 
