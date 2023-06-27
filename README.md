@@ -3,22 +3,6 @@
 
 
 ### At the moment I own the following technologies:
-
-:hash: Basic knowledge: `Html(Html5)` and `CSS(CSS3)`; </br>
-
-:hash: 	Programming languages: `JavaScript`, `PHP`; </br>
-
-:hash:  CMS: `WordPress`, `Joomla`, `Textolite`; </br>
-
-:hash:  `Gulp`, `BEM` and much more. </br>
-
-#### I also have experience in web design development. I know how to work in Figma, Photoshop.
-#### I will be glad to work with you) Write me : ilrosch@yandex.ru
-
-### My freelance profile:
-> [Kwork.ru (Russia)](https://kwork.ru/user/_ilrosch_) </br>
-
-> [Kwork.com](https://kwork.com/user/_ilrosch_)
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <img src="https://github.com/ilrosch/ilrosch/blob/main/icons/html.svg" title="HTML5" alt="HTML5" width="auto" height="auto"/>
   <img src="https://github.com/ilrosch/ilrosch/blob/main/icons/css.svg" title="CSS3" alt="CSS3" width="auto" height="auto"/>
@@ -30,9 +14,11 @@
   <img src="https://github.com/ilrosch/ilrosch/blob/main/icons/bem.svg" title="БЭМ" alt="БЭМ" width="auto" height="auto"/>
   <img src="https://github.com/ilrosch/ilrosch/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="auto" height="auto"/>
 </div>
-> 
->
->
+
+#### I will be glad to work with you) Write me : ilrosch@yandex.ru
+
+### My freelance profile:
+<a href="https://kwork.ru/user/_ilrosch_"><img src="https://github.com/ilrosch/ilrosch/blob/main/icons/kwork.svg" title="Kwork" alt="Kwork" width="auto" height="auto"/></a>
 
 
 
