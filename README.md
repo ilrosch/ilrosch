@@ -19,6 +19,10 @@
 > [Kwork.ru (Russia)](https://kwork.ru/user/_ilrosch_) </br>
 
 > [Kwork.com](https://kwork.com/user/_ilrosch_)
+><div>
+  <img src="https://github.com/ilrosch/ilrosch/icons/html.svg" title="HTML5" alt="HTML%" width="auto" height="auto"/>
+  </div>
+> 
 >
 > <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
