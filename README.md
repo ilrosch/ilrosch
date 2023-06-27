@@ -20,7 +20,7 @@
 
 > [Kwork.com](https://kwork.com/user/_ilrosch_)
 ><div>
-  <img src="https://github.com/ilrosch/ilrosch/icons/html.svg" title="HTML5" alt="HTML%" width="auto" height="auto"/>
+  <img src="https://github.com/ilrosch/ilrosch/blob/main/icons/html.svg" title="HTML5" alt="HTML%" width="auto" height="auto"/>
   </div>
 > 
 >
