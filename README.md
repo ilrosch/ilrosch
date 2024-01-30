@@ -6,7 +6,6 @@ Frontend Developer and Designer
 
 In short, I'm an aspiring frontend developer and a bit of a web designer. I create websites, except for online shops and web applications. I maintain already launched projects (functional improvements, design updates, information updates).
 
-* 🌍  I'm based in Sarov
 * 🖥️  See my portfolio at [Kwork](http://kwork.ru/user/_ilrosch_)
 * ✉️  You can contact me at [ilrosch@yandex.ru](mailto:ilrosch@yandex.ru)
 * 🧠  I'm learning "Frontent Developer Profession" on Hexlet and learning algorithms
